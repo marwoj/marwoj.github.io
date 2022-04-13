@@ -21,15 +21,13 @@ plugins:
 authors:
   wojciech:
     name: Wojciech Marusarz
-    site: https://www.wowthemes.net
-    avatar: /assets/images/wojciech-marusarz.webp
+    avatar: assets/images/wojciech-marusarz.webp
     bio: >- # this means to ignore newlines until next property
       Lubię pracować w małych zespołach, gdzie jakość kodu i kierunek rozwoju projektu są kluczowe. W dłuższej
       perspektywie pozwala mi to na szerokie zrozumienie tematu, rozwój osobisty i poszukiwanie wyzwań. Zajmuje się
       programowaniem w Javie i Kotlinie. Dodatkowo interesuję się narzędziami Big Data, co czyni mnie idealnym
       kandydatem do wdrożeń różnych aplikacji Data-Intensive.
-    email: fakemail@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+    twitter: https://twitter.com/w_marusarz
 
 # Defaults
 defaults:
