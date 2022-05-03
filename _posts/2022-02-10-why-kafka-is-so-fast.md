@@ -2,7 +2,7 @@
 layout: post
 title:  "Dlaczego Kafka działa tak szybko?"
 author: wojciech
-categories: [ tech ]
+categories: [ ddia, kafka ]
 image: assets/images/shorts/2022-02-10-why-kafka-is-so-fast.jpg
 comments: false
 ---
