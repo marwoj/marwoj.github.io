@@ -63,6 +63,9 @@ warunkach, a być może ktoś wskaże nam nowe obszary warte dalszych poszukiwa�
 
 ***
 
+Łatwo się zniechęcić, kiedy efekty nauki idą na marne. Technika Feynmana sprawia jednak, że faktycznie czynimy
+postępy i zachęca do dalszego rozwoju.
+
 Stosując technikę Feynmana, poznajemy dogłębnie wybraną dziedzinę, a nie chowamy się za kurtyną skomplikowanych pojęć.
 Kurtyną, która opadnie po pierwszym pytaniu _**Dlaczego?**_
 
