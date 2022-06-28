@@ -47,6 +47,7 @@ związanych z konsultacją.
 Gdyby to szczęście bądź ślepa intuicja doprowadziły Steinmetza do rozwiązania, pewnie rachunek byłby za wysoki. Jednak w
 tym wypadku konieczna była jego wiedza którą gromadził latami, a za to już należy się wynagrodzenie.
 
+
 ***
 
 ### Kim był Charles Proteus Steinmetz
