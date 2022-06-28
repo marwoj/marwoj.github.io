@@ -3,7 +3,7 @@ layout: post
 title:  "Jak Kafka działa pod spodem?"
 author: wojciech
 categories: [ kafka, ddia ]
-image: assets/images/shorts/2022-03-17-kafka-internals.jpg
+image: assets/images/shorts/2022-06-20-kafka-internals.jpg
 comments: false
 tags: [featured]
 ---

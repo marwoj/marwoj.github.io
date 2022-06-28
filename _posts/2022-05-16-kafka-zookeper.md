@@ -3,7 +3,7 @@ layout: post
 title:  "Kafka pozbywa się zookepeara"
 author: wojciech
 categories: [ ddia, kafka ]
-image: assets/images/shorts/2022-02-20-kafka-zookeper.jpg
+image: assets/images/shorts/2022-05-16-kafka-zookeper.jpg
 comments: false
 ---
 

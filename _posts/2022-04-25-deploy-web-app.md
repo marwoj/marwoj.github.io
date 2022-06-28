@@ -3,7 +3,7 @@ layout: post
 title:  "Uruchom aplikację na EC2 w godzinę"
 author: wojciech
 categories: [ tech, tutorial ]
-image: assets/images/shorts/2022-02-05-deploy-web-app.jpg
+image: assets/images/shorts/2022-04-25-deploy-web-app.jpg
 comments: false
 tags: [featured]
 ---

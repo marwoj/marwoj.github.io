@@ -3,7 +3,7 @@ layout: post
 title:  "Gitlab pipelines"
 author: wojciech
 categories: [ tech ]
-image: assets/images/shorts/2022-03-12-gitlab-pipelines.jpg
+image: assets/images/shorts/2022-06-13-gitlab-pipelines.jpg
 comments: false
 tags: [featured]
 ---
