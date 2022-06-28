@@ -3,7 +3,7 @@ layout: post
 title:  "Efekt Dunning Krugera a rekrutacja"
 author: wojciech
 categories: [ tech ]
-image: assets/images/shorts/2022-03-02-dunning-kruger.jpg
+image: assets/images/shorts/2022-05-30-dunning-kruger.jpg
 comments: false
 ---
 

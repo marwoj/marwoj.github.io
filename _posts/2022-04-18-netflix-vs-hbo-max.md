@@ -3,7 +3,7 @@ layout: post
 title:  "Co się dzieje gdy wciskasz Play na Netflix?"
 author: wojciech
 categories: [ tech ]
-image: assets/images/shorts/2022-02-01-netflix-and-hbo-max.jpg
+image: assets/images/shorts/2022-04-18-netflix-vs-hbo-max.jpg
 comments: false
 tags: [sticky]
 ---
