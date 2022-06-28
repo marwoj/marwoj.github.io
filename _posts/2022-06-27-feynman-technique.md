@@ -7,18 +7,18 @@ image: assets/images/shorts/2022-06-27-feynman-technique.jpg
 comments: false
 ---
 
-Fizyk Richard Feynman, znany był z zamiłowania do wiedzy o otaczającym na świecie, a co istotniejsze — umiał tę wiedzę
+Fizyk Richard Feynman, znany był z zamiłowania do wiedzy o otaczającym nas świecie, a co istotniejsze — umiał tę wiedzę
 przekazywać. Umiejętność ta wynikała ze sposobu, w jaki ten genialny noblista podchodził do uczenia się.
 
-Nauka w rozumieniu Richarda Feynmana nie polegała na przeczytaniu książki i próbie jej zapamiętania. Ucząc się w ten
-sposób, **uczymy się jedynie skomplikowanych pojęć** opisujących wybrane zagadnienie, bez
+Nauka w rozumieniu Richarda Feynmana nie polegała na przeczytaniu książki, próbując zapamiętać jej treść. Ucząc się w
+ten sposób, **uczymy się jedynie skomplikowanych pojęć** opisujących powierzchownie wybrane zagadnienie, bez
 zrozumienia jego istoty. Ukrywamy naszą niewiedzę za kurtyną trudnych słów, licząc na to, że nikt nie zapyta o ich
 znaczenie. Do tego skomplikowane pojęcia sprawiają, że uczymy się na pamięć — kiedy zapomnimy terminu,
 zapominamy, czego się uczyliśmy.
 
 Według Feynmana **nauka to przede wszystkim zdobywanie wiedzy, którą będzie można wykorzystać** w przeróżnych sytuacjach
-— nieważne czy praktycznych, czy też teoretycznych — np. podczas dalszej nauki, tworząc analogię i powiązania. A to
-wymaga już zrozumienia istoty zagadnienia.
+— nieważne czy praktycznych, czy też teoretycznych — np. podczas dalszej nauki, tworząc analogię i powiązania. A to już
+wymaga zrozumienia istoty zagadnienia.
 
 Jak zatem uczyć się skutecznie, tak żeby wiedza z nami pozostała ? Richard Feynman proponuje.
 
