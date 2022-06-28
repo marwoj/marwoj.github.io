@@ -22,10 +22,13 @@ authors:
     name: Wojciech Marusarz
     avatar: assets/images/wojciech-marusarz.webp
     bio: >- # this means to ignore newlines until next property
+      <br>
       Lubię pracować w zespołach, gdzie jakość kodu i ukierunkowany rozwój projektu są kluczowe. W dłuższej
       perspektywie pozwala mi to na dogłębne zrozumienie tematu, rozwój osobisty i szukanie wyzwań. Zajmuje się
       programowaniem w Javie i Kotlinie. Dodatkowo interesuję się narzędziami Big Data oraz Data-Intensive.
+      <br><br><br><br>
     twitter: https://twitter.com/w_marusarz
+    linkedin: https://www.linkedin.com/in/wojciech-marusarz/
 
 # Defaults
 defaults:
