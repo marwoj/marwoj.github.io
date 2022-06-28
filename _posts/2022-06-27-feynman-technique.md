@@ -10,21 +10,21 @@ comments: false
 Fizyk Richard Feynman, znany był z zamiłowania do wiedzy o otaczającym nas świecie, a co istotniejsze — umiał tę wiedzę
 przekazywać. Umiejętność ta wynikała ze sposobu, w jaki ten genialny noblista podchodził do uczenia się.
 
-Nauka w rozumieniu Richarda Feynmana nie polegała na przeczytaniu książki, próbując zapamiętać jej treść. Ucząc się w
-ten sposób, **uczymy się jedynie skomplikowanych pojęć** opisujących powierzchownie wybrane zagadnienie, bez
-zrozumienia jego istoty. Ukrywamy naszą niewiedzę za kurtyną trudnych słów, licząc na to, że nikt nie zapyta o ich
-znaczenie. Do tego skomplikowane pojęcia sprawiają, że uczymy się na pamięć — kiedy zapomnimy terminu,
-zapominamy, czego się uczyliśmy.
+Nauka w rozumieniu Richarda Feynmana nie polegała na przeczytaniu materiału, próbując zapamiętać jak najwięcej. Ucząc
+się w ten sposób, **uczymy się jedynie skomplikowanych pojęć** opisujących wybrane zagadnienie, bez
+zrozumienia istoty samego zagadnienia. Ukrywamy niewiedzę za kurtyną trudnych słów, licząc, że nikt nie zapyta o ich
+znaczenie. Skomplikowane pojęcia sprawiają, że uczymy się na pamięć — kiedy zapomnimy terminu,
+zapominamy, czego się nauczyliśmy.
 
 Według Feynmana **nauka to przede wszystkim zdobywanie wiedzy, którą będzie można wykorzystać** w przeróżnych sytuacjach
-— nieważne czy praktycznych, czy też teoretycznych — np. podczas dalszej nauki, tworząc analogię i powiązania. A to już
-wymaga zrozumienia istoty zagadnienia.
+— nieważne czy to praktycznych np. do naprawy urządzenia, czy też teoretycznych — np. budując podstawy do dalszej nauki.
+A takie uczenie się wymaga już zrozumienia istoty zagadnienia.
 
-Jak zatem uczyć się skutecznie, tak żeby wiedza z nami pozostała ? Richard Feynman proponuje.
+Jak zatem uczyć się skutecznie ? Richard Feynman proponuje.
 
 ## 1. Wytłumaczmy to tak jak dziecku
 
-Weźmy kartkę papieru i u góry napiszmy to, czego chcemy się nauczyć. Na kartce opiszmy wszystko, co wiemy na wybrany
+Weźmy kartkę papieru i u góry napiszmy to, czego chcemy się nauczyć. Na kartce opiszmy wszystko to, co wiemy na wybrany
 temat, tak jakbyśmy tłumaczyli to dziecku.
 
 **Dlaczego na kartce?** Wtedy zbiór chaotycznych myśli układa się w logiczną strukturę.
@@ -46,12 +46,12 @@ w przyszłości — kiedy będziemy chcieli przekazać to, czego się nauczyliś
 ## 3. Zorganizujmy notatki i stwórzmy historię
 
 Mając ręczne notatki, warto je uporządkować, a następnie stworzyć z nich ciekawą do opowiedzenia historię. Kiedy fakty
-przybierają postać narracji, stają się mocniej ze sobą powiązane, a uczenie się to przecież tworzenie powiązań. Tak
-utworzoną historię można przeczytać na głos i jeśli coś wyda się dziwne lub niezrozumiałe — wracamy
+przybierają postać narracji, stają się mocniej ze sobą powiązane, a uczenie się to przecież tworzenie nowych powiązań.
+Tak utworzoną historię można przeczytać na głos i jeśli coś wyda się dziwne lub niezrozumiałe — wracamy
 do punktu drugiego.
 
-Istotne jest, żeby historia była ciągiem przyczynowo skutkowym, oraz żeby była ciekawa. Dzięki temu łatwiej będzie nam
-ją zapamiętać oraz chętniej przekażemy ją dalej. Jako bonus, do tak uporządkowanych notatek będziemy mogli z
+Istotne jest, żeby historia była ciągiem przyczynowo skutkowym, oraz żeby po prostu była ciekawa. Dzięki temu łatwiej
+będzie nam ją zapamiętać oraz chętniej przekażemy ją dalej. Jako bonus, do tak uporządkowanych notatek będziemy mogli z
 łatwością wrócić w przyszłości.
 
 ## 4. Przekażmy wiedzę dalej.
@@ -63,8 +63,9 @@ warunkach, a być może ktoś wskaże nam nowe obszary warte dalszych poszukiwa�
 
 ***
 
-Łatwo się zniechęcić, kiedy efekty nauki idą na marne. Technika Feynmana sprawia jednak, że faktycznie czynimy
-postępy i zachęca do dalszego rozwoju.
+Łatwo się zniechęcić, kiedy efekty nauki idą w zapomnienie. Technika Feynmana sprawia jednak, że nie tylko
+zapamiętujemy, ale też rozumiemy to, czego się uczyliśmy i możemy to wykorzystać w przyszłości — co jest niezwykle
+satysfakcjonujące.
 
 Stosując technikę Feynmana, poznajemy dogłębnie wybraną dziedzinę, a nie chowamy się za kurtyną skomplikowanych pojęć.
 Kurtyną, która opadnie po pierwszym pytaniu _**Dlaczego?**_
