@@ -5,7 +5,7 @@ author: wojciech
 categories: [ tech ]
 image: assets/images/shorts/2022-04-18-netflix-vs-hbo-max.jpg
 comments: false
-tags: [sticky]
+tags: [sticky, main]
 ---
 
 W tym roku żegnamy się z HBO Go i czekamy na opóźniającą się premierę HBO MAX.

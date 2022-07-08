@@ -3,6 +3,7 @@ layout: post
 title:  "Praca z git - wiele kont na jednym komputerze"
 author: wojciech
 categories: [ tech ]
+tags: [ main ]
 image: assets/images/shorts/2022-06-06-git-config.jpg
 comments: false
 ---

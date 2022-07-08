@@ -5,7 +5,7 @@ author: wojciech
 categories: [ tech, tutorial ]
 image: assets/images/shorts/2022-04-25-deploy-web-app.jpg
 comments: false
-tags: [featured]
+tags: [featured, main]
 ---
 
 Czy kiedykolwiek wpadłeś na świetny pomysł na aplikację dostępną on-line, ale powstrzymywały Cię wątpliwości i strach

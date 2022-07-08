@@ -5,7 +5,7 @@ author: wojciech
 categories: [ kafka, ddia ]
 image: assets/images/shorts/2022-06-20-kafka-internals.jpg
 comments: false
-tags: [featured]
+tags: [featured, main]
 ---
 Jak działa Kafka? W sieci jest mnóstwo teorii, czym jest topic, broker, partycja.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Charles Proteus Steinmetz - granica między wiedzą, a intuicją"
 author: wojciech
 categories: [ Work-Life Balance ]
+tags: [ main ]
 image: assets/images/shorts/2022-07-04-charles-proteus-steinmetz.jpg
 comments: false
 ---
