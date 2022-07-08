@@ -8,9 +8,8 @@ image: assets/images/shorts/2022-07-04-charles-proteus-steinmetz.jpg
 comments: false
 ---
 
-## Gdzie leży granica między wiedzą a intuicją?
-
-Poniższy tekst jest cytatem z książki _Niezwykłe perypetie odkryć i wynalazków, Juliusza Jerzego Herlingera._
+Gdzie leży granica między wiedzą a intuicją? Poniższy tekst jest cytatem z książki _Niezwykłe perypetie odkryć i
+wynalazków, Juliusza Jerzego Herlingera._
 
 ***
 
@@ -54,7 +53,7 @@ tym wypadku konieczna była jego wiedza którą gromadził latami, a za to już 
 ### Kim był Charles Proteus Steinmetz
 
 > Urodzony w Niemczech, amerykański inżynier elektryk, którego pomysły dotyczące systemów prądu przemiennego pomogły
-zainaugurować epoka elektryczności w Stanach Zjednoczonych.
+> zainaugurować epoka elektryczności w Stanach Zjednoczonych.
 
 O jego niezwykłych zdolnościach może świadczyć fakt, że General Electric Company kupiła firmę Eickemeyera, gdzie
 pracował Charles Proteus Steinmetz, ze względu na jego patenty, ale to sam Steinmetz był uważany za jeden z jej głównych
