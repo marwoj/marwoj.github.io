@@ -8,8 +8,6 @@ image: assets/images/knots/refowy-2.jpg
 comments: false
 ---
 
-## Struktura sznurowadła
-
 Wiążąc sznurowadła, nie zastanawiamy się nad strukturą węzła, którego używamy. A przecież jest mnóstwo węzłów, które
 umożliwiają połączenie dwóch lin — w tym wypadku sznurowadeł. Dlaczego zatem na co dzień używamy węzła refowego
 z podwójną pętelką?
