@@ -3,6 +3,7 @@ layout: post
 title:  "Czy presja bierze się ze złego myślenia o czasie?"
 author: wojciech
 categories: [ tech ]
+tags: [ main ]
 image: assets/images/shorts/2022-05-23-time-pressure.jpg
 comments: false
 ---

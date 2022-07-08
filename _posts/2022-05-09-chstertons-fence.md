@@ -5,7 +5,7 @@ author: wojciech
 categories: [ tech ]
 image: assets/images/shorts/2022-05-09-chstertons-fence.jpg
 comments: false
-tags: [featured]
+tags: [featured, main]
 ---
 <h2>Płot Chestertona w pracy programisty</h2>
 Mieliście kiedyś taki refactoring? Usuwacie lub edytujecie bezsensowny, nieczytelny, źle napisany kod. Wrzucacie

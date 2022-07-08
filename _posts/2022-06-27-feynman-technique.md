@@ -3,6 +3,7 @@ layout: post
 title:  "Technika Feynmana"
 author: wojciech
 categories: [ Work-Life Balance ]
+tags: [ main ]
 image: assets/images/shorts/2022-06-27-feynman-technique.jpg
 comments: false
 ---
