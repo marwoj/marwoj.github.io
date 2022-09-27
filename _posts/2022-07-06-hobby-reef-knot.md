@@ -53,7 +53,7 @@ Może i nie jest to najbardziej wytrzymały węzeł, ale do zawiązania buta —
 Żeby zawiązać węzeł refowy podwójnie zabezpieczony, możemy zawiązać węzeł tak, jakbyśmy wiązali buta, lub po prostu
 możemy przełożyć końcówki liny przez środek węzła refowego.
 
-### Więcej można przeczytać tutaj:
+### Więcej można dowiedzieć się tutaj:
 
 - Węzły i sploty, Cyrus L. Day, Colin Jarman
 - [Knots 3D](https://play.google.com/store/apps/details?id=com.nynix.knots3d&gl=PL)

@@ -50,16 +50,17 @@ obecności. Co ciekawe, niektóre zawody były na tym poziomie, jednak okazało 
 ## Poziom 1
 
 Nie są podejmowane działania ułatwiające pracę rozproszoną.
-Firma opiera się na osobach, bez których praca nie może być wykonywana — zadania wymagają ich obecności.
-Kiedy te osoby są niedostępne, praca odkładana jest do czasu ich powrotu.
 
 Praca rozproszona jest możliwa, ale ogranicza się do korzystania z poczty. Dostęp do innych narzędzi jest
 utrudniony przez brak VPN-a. Praca jest kontynuowana po powrocie do biura, bo odbywa się na sprzęcie firmowy.
 
+Firma opiera się na osobach, bez których praca nie może być wykonywana — zadania wymagają ich obecności.
+Kiedy te osoby są niedostępne, praca odkładana jest do czasu ich powrotu.
+
 ## Poziom 2
 
 Jest to stan, w którym wiele firm znalazło się na początku Covid-19. Zaakceptowały możliwość pracy rozproszonej, jednak
-skrupulatnie odtworzyły swoje procesy on-line.
+skrupulatnie odtworzyły swoje procesy, tyle że on-line.
 
 Odbywają się te same spotkania, tyle że na Google Meet, Zoom czy Microsoft Teams. Cała komunikacja wciąż jest
 synchroniczna i wymaga obecności przed komputerem o ustalonej porze.
@@ -105,7 +106,8 @@ umacnianie więzi.
 
 ## Poziom 5 — Nirvana
 
-Ostatnio poziom jest czymś, do czego należy dążyć. Warto mieć taki wzorzec, który wyznacza kierunek dalszych poszukiwań.
+Ostatnio poziom jest czymś nieosiągalnym, ale równocześnie czymś, do czego należy dążyć. Jest to wzorzec, który
+wyznacza kierunek dalszych poszukiwań.
 
 Pracownicy są o wiele bardziej produktywni niż ich biurowi odpowiednicy. Efektywność
 przychodzi łatwo, wręcz bezwysiłkowo. Jakość jest na najwyższym poziomie. Istnieje synergia pomiędzy życiem osobistym a
