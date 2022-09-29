@@ -71,7 +71,7 @@ satysfakcjonujące.
 Stosując technikę Feynmana, poznajemy dogłębnie wybraną dziedzinę, a nie chowamy się za kurtyną skomplikowanych pojęć.
 Kurtyną, która opadnie po pierwszym pytaniu _**Dlaczego?**_
 
-### Więcej można przeczytać tutaj:
+### Więcej można dowiedzieć się tutaj:
 
 - [The Feynman Learning Technique — Farnam Street](https://fs.blog/feynman-learning-technique/)
 

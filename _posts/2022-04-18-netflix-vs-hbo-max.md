@@ -18,8 +18,8 @@ co bardziej istotne z punktu widzenia użytkownika — poprawa jakości działan
 Jak istotny to jest czynnik i ile pracy wymaga, pokazuje świetny artykuł: [Netflix: What Happens When You Press Play?
 ](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 
-_Czy wiesz że..._ Netflix tworzy pliki wideo dostosowane do wielu urządzeń i szybkości sieci? Drugi sezon serialu
-„Stranger Things" został nakręcony w rozdzielczości 8K i ma dziewięć odcinków — a to oznacza że pliki wideo miały wiele
+>Czy wiesz, że... Netflix tworzy pliki wideo dostosowane do wielu urządzeń i szybkości sieci? Drugi sezon serialu
+„Stranger Things" został nakręcony w rozdzielczości 8K i ma dziewięć odcinków — a to oznacza, że pliki wideo miały wiele
 terabajtów. Zakodowanie tylko jednego sezonu zajęło 190 000 godzin pracy procesora. Wynik? 9570 różnych plików wideo,
 audio i tekstowych!
 

@@ -24,6 +24,6 @@ A to już jest dobry start, bo zmienia nastawienie do rozmówcy. Zamiast prób u
 ignorancją i niewiedzą się wykazuje, spróbujmy zrozumieć że każdy z nas ulega złudzeniu ponadprzeciętności. Zamiast
 atakowania, skupmy się na rzeczowej rozmowie.
 
-Więcej można przeczytać tutaj:
+### Więcej można dowiedzieć się tutaj:
 - [Czym jest i czym nie jest efekt Dunninga-Krugera za Wykop.pl](https://www.wykop.pl/artykul/6187985/czym-jest-i-czym-nie-jest-efekt-dunninga-krugera/)
 - [Badanie z 2019 roku](https://www.gwern.net/docs/iq/2020-gignac.pdf)
