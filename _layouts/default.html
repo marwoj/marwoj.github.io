@@ -30,6 +30,18 @@
 
     {% include tracking-header.html %}
 
+    <style>
+        .progress-bar {
+            background: linear-gradient(to right, #ea2f65 var(--scroll), transparent 0);
+            background-repeat: no-repeat;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 4px;
+            z-index: 10000 !important;
+        }
+    </style>
 
 </head>
 
@@ -52,7 +64,7 @@
         </div>
     </div>
     </nav>
-
+    <div class="progress-bar"></div>
     <!-- Search Results -->
     <div id="lunrsearchresults">
         <ul class="mb-0"></ul>
@@ -71,6 +83,19 @@
 
     <script src="{{site.baseurl}}/assets/js/theme.js"></script>
 
+<script>
+  var element = document.documentElement,
+    body = document.body,
+    scrollTop = 'scrollTop',
+    scrollHeight = 'scrollHeight',
+    progress = document.querySelector('.progress-bar'),
+    scroll;
+
+  document.addEventListener('scroll', function() {
+    scroll = (element[scrollTop]||body[scrollTop]) / ((element[scrollHeight]||body[scrollHeight]) - element.clientHeight) * 100;
+    progress.style.setProperty('--scroll', scroll + '%');
+  });
+</script>
 
     <!-- Footer -->
     <footer class="bg-white border-top p-3 text-muted small">
