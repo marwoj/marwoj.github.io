@@ -3,7 +3,7 @@ layout: post
 title:  "Nir Eyal - Mastering Indistraction"
 author: wojciech
 categories: [ Work-Life Balance ]
-tags: [ main ]
+tags: [ sticky, featured, main ]
 image: assets/images/shorts/2022-09-27-mastering-indistraction.jpg
 comments: false
 ---
