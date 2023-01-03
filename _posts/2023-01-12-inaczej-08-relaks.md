@@ -3,12 +3,12 @@ layout: post
 title:  "Inaczej - Radosław Kotarski. Rozdział #8: Relaks"
 author: wojciech
 categories: [ Work-Life Balance ]
-tags: [ main ]
+tags: [ main, inaczej, books ]
 image: assets/images/inaczej/cover.jpg
 comments: false
 ---
-Moje krótkie podsumowanie książki Radka Kotarskiego — „Inaczej". Książka jest przeglądam badań i literatury dotyczącej
-produktywności oraz work-life balance, dlatego uważam że warto poświęcić czas i zapoznać się dokładniej z jej treścią.
+Moje krótkie podsumowanie książki Radka Kotarskiego — „Inaczej”. Książka jest przeglądem literatury, dotyczącej
+produktywności oraz work-life balance. Warto poświęcić czas i zapoznać się dokładniej z jej treścią.
 To podsumowanie powinno być jedynie zachętą.
 
 > Od tego, jak spędzamy każdy dzień, zależy to, jak spędzamy całe życie.
