@@ -12,9 +12,8 @@ prawami i jest równie ważne i przyjemne, ale obowiązują tam inne zasady.
 
 ## Dlaczego w ogóle warto zapamiętywać to, co się czytało?
 
-Czytelnik pasywny, a czytelnik aktywny. Czym różnią się te dwie osoby? Nie chodzi o to, że jedna czyta, a druga nie.
-Obydwie osoby czytają. Czytelnik pasywny być może nawet więcej. Różnica polega na czym innym. Nawet jeśli
-obydwaj czytelnicy czytają to samo, po przeczytaniu książki stan ich wiedzy jest zgoła odmienny.
+Czytelnik pasywny, a czytelnik aktywny. Czym różnią się te dwie osoby? Nie chodzi o to, że jeden czyta, a druga nie.
+Obydwie osoby czytają. Czytelnik pasywny być może nawet więcej. Różnica polega na czym innym. 
 
 Czytelnik pasywny czyta wiele, jego głównym celem jest zaliczenie pozycji, żeby móc powiedzieć — przeczytane. Nie
 zapamiętuje, co przeczytał, nie wyciąga wniosków.
