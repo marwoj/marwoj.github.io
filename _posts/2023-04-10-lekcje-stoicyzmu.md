@@ -6,6 +6,7 @@ categories: [ Work-Life Balance ]
 tags: [ main, books ]
 image: assets/images/lekcje-stoicyzmu/cover.jpg
 comments: false
+toc: true
 ---
 
 # Lekcje stoicyzmu by John Sellars
@@ -93,3 +94,52 @@ Miłość rodzica do dziecka, czy miłość dwojga osób są naturalne i pomagaj
 Stoik nie jest nieczułym kamiennym blokiem, ale decyduje, jakie emocje będą miały do niego dostęp. Stoik cieszy się
 życiem, umacnia relacje, troszczy się o innych, odczuwa radość.
 Jednak nie hołduje negatywnym emocjom jak gniew, urazy, zazdrość, zgorzknienie, nadmierne przywiązanie.
+
+## Radzić sobie z przeciwnościami
+
+Na co dzień widzimy nieszczęścia innych ludzi, ale z jakiegoś powodu uznajemy że nam się nie przytrafią. Mówimy "Nie
+sądziłem, że mi się to przydarzy". Myślimy w sposób pozbawiony logiki.
+
+Czasami zdarzają się złe rzeczy — to również część życia. Akceptacja tego faktu nie powstrzyma jednak myśli, że choroba
+jest czymś złym. Jak sobie z tym radzić?
+
+Seneka tłumaczy, dlaczego ludzie cierpią z powodu nieszczęścia i jak sobie z tym radzić. Po pierwsze osądy. Zewnętrzne
+zdarzenia nie są ani dobre, ani złe. Nasz osąd może je takimi uczynić.
+Po drugie — niezauważanie okazji. Doznane nieszczęścia mogą przynieść korzyść — w walce ze słabym przeciwnikiem,
+zapaśnik nie rozwija się. Przeciwności pozwalają doskonalić cnoty i należy je traktować jako okazja.
+Po trzecie, bez trudności nie wykształcimy cnoty cierpliwości, odwagi, wytrzymałości. Luksus to nieszczęście,
+bo prowadzi do lenistwa, niewdzięczności, chciwości.
+
+Seneka napisał do swej matki Helwii, przebywając na wygnaniu na Korsyce:
+> To jedno dobro zawiera się w ciągłym nieszczęściu, że tych, których bez przerwy gnębi, w końcu hartuje
+
+Nie oznacza to jednak, że do nieszczęścia należy dążyć. Nikt przy zdrowych zmysłach tak nie postępuje. Nieszczęścia
+jednak są częścią życia i musimy umieć z nimi żyć i prawidłowo je osądzać.
+
+Żeby ułatwić nam radzenie sobie z przeciwnościami, stoicy proponują ćwiczenie, w którym przewidujemy nieszczęścia, które
+mogą się nam przydarzyć. Zastanawiając się, co złego może się wydarzyć, będziemy lepiej przygotowani. A być może w
+trakcie zastanawiania się, dotrze do nas, że nasze obawy są przesadzone.
+
+Należy być przygotowanym na każdą ewentualność, a już na pewno na śmierć. Naszą czy naszych bliskich. Jest to rzecz
+nieuchronna.
+
+## Nasze miejsce w naturze
+
+Innym ćwiczeniem proponowanym przez stoików, które pozwala nabrać dystansu, jest eksperyment myślowy, w którym
+staramy się popatrzeć na ziemię z lotu ptaka, bądź nawet z perspektywy kosmicznej. Tak oto wszystkie spory i problemy
+znikają. Stajemy się częścią jednego wielkiego organizmu.
+
+W ten sposób przeznaczenie to po prostu łańcuch przyczynowo skutkowy. Przeznaczenie nie zachęca jednak do
+bierności, ponieważ sami możemy być twórcami przeznaczenia, podejmując działania i decyzje.
+
+Uwzględniając jednak wszystkie przyczyny, wydarzenia nie mogą potoczyć się inaczej.
+
+Jeśli jednak napotka nas coś złego, uskarżanie się jest bezcelowe. Jest to nieuchronny efekt przyczynowo
+skutkowy. Jedyne co to należy wyciągnąć wnioski i sprawić, żeby w przyszłości ta machina nie mogła się rozpędzić.
+Niezależnie czy naturą rządzi Bóg, czy przypadkowy ruch atomów, nasze podejście powinno być takie samo — mamy starać się
+postępować tak, żeby nasze działania prowadziły do pożądanych akcji. Akceptujemy i reagujemy jak najlepiej.
+Jesteśmy jedynie cząstkami Natury, podlegamy rządzącym nią siłom i jesteśmy nieuchronnie porywani przez jej poruszenia.
+Nie będziemy w stanie cieszyć się harmonijnym życiem, dopóki w pełni tego nie zrozumiemy.
+
+
+
