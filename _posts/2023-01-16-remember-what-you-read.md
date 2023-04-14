@@ -6,6 +6,7 @@ categories: [ Work-Life Balance ]
 tags: [ main ]
 image: assets/images/shorts/remember-what-you-read.jpg
 comments: false
+toc: true
 ---
 W tym artykule skupię się na czytaniu książek w celach rozwojowych. Czytanie w celach rozrywkowych rządzi się swoimi
 prawami i jest równie ważne i przyjemne, ale obowiązują tam inne zasady.
@@ -83,4 +84,3 @@ uczenia.
   2Photo Pots</a>
   on <a href="https://unsplash.com/photos/vT9SSvrAncY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
   Unsplash</a>
-  
