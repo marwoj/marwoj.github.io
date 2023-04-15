@@ -43,8 +43,9 @@ layout: default
 		<div class="col-md-12 col-lg-8">
             
             <!-- Article -->
-			<article class="article-post">                
-			{{ content | toc }}
+			<article class="article-post">
+				{% include toc.html html=content h_min=2 h_max=2 ordered=true class='toc' %}
+				{{ content }}
 			</article>
 			
 			<!-- Tags -->
