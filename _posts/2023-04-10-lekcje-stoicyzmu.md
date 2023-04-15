@@ -141,5 +141,43 @@ postępować tak, żeby nasze działania prowadziły do pożądanych akcji. Akce
 Jesteśmy jedynie cząstkami Natury, podlegamy rządzącym nią siłom i jesteśmy nieuchronnie porywani przez jej poruszenia.
 Nie będziemy w stanie cieszyć się harmonijnym życiem, dopóki w pełni tego nie zrozumiemy.
 
+## Życie i śmierć
 
+.
+Moment, kiedy zaczynamy żyć, często przychodzi, kiedy nasze życie już niemal zupełnie przeminęło. Nie dlatego że życie
+jest zbyt krótkie, ale dl tego, że je marnujemy. Żyjemy bez celu, w pogoni za rzeczami bez wartości, tracąc czas.
 
+Jak przejąć kontrolę nad życiem i zacząć żyć? Nie przejmować się tym co myślą inni, nie gonić za ich przychylnością,
+starając zapewnić sobie przyszłe korzyści. Seneka mówi:
+> Absurdalne jest to, że chronimy pieniędzy i majątku, a rozdajemy to, co bezcenne — czas.
+
+Odkładanie planów wydaje się bezsensowne. Czy dożyjesz, czy będziesz miał zdrowie? A nawet jeśli, to po co czekać?
+Jakie plany warto realizować? Z sukcesem, awansem, pieniędzmi wiąże się szereg napięć. Brakuje spokoju, ciszy, czasu na
+relaks i odpoczynek.
+
+Nauka dobrego życia może zająć całe życie. Łatwo przeżyć je, nie koncentrując się na doświadczeniach życia.
+Hałas, rozpraszacze, wiele rzeczy do zrobienia — angażują uwagę i nie potrafimy skupić się na niczym.
+
+> Człowiek zajęty jest najmniej zdatny do życia.
+
+Życie nie należy do nas, jest darem. Od nas zależy czy podziękujemy gospodarzowi za mile spędzony czas, czy będziemy
+utyskiwać, że życie mogło potoczyć się inaczej.
+
+## Jak żyć razem
+
+Arystoteles mówi: "Ludzie są z natury istotami społecznymi i zwierzętami politycznymi". Rodzimy się we wspólnotach:
+rodzina, lokalna społeczność, kraj, wspólnota ogólnoludzka. Stoik skupia się na wykształceniu pełnego cnót charakteru,
+unikając antyspołecznych emocji, takich jak gniew. Powinien uczestniczyć we wspólnotach, do których należy.
+
+Każdy z nas odgrywa szereg ról społecznych: mąż, ojciec, pracownik i powinniśmy wypełniać obowiązki związane z tymi
+rolami. Jeśli popatrzymy szerzej, nasza rola to też bycie członkiem lokalnej społeczności, czy nawet ludzkości ogólnie.
+
+> Gałąź odcięta od konara, nie może nie być odcięta i od całego drzewa. Tak samo człowiek — oddzielając się od drugiego
+> człowieka, odpada od całej wspólnoty. Co do gałęzi — ją odcina ktoś inny. Człowiek zaś sam siebie odsuwa od bliźniego,
+> kiedy go nienawidzi i odwraca się od niego. Nie wie jednak, że tym samym odcina siebie od całego grona obywateli.
+
+Nie zawsze należy przebywać w grupie, bo wtedy czasem trudniej wyzbyć się złych zachowań wśród ludzi, którzy im hołdują.
+Jeśli ocierasz się o człowieka osmolonego sadzą, ty też się ubrudzisz. Nie chodzi o społeczną izolację. Należy jednak
+odpowiednio wybierać znajomości i to z kim spędzamy czas.
+
+**Spędzaj czas z tymi, których system wartości podziwiasz, a nawet podzielasz.**
