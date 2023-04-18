@@ -3,7 +3,7 @@ layout: post
 title: "Atomowe nawyki — James Clear. Rozdział #5: Prawo drugie: Spraw by to było atrakcyjne"
 author: wojciech
 categories: [ Work-Life Balance ]
-tags: [ main,  books, chapter ]
+tags: [ atomowe-nawyki, books, chapter ]
 image: assets/images/atomowe-nawyki/cover.jpg
 comments: false
 toc: true

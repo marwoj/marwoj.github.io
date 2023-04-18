@@ -3,7 +3,7 @@ layout: post
 title: "Atomowe nawyki — James Clear"
 author: wojciech
 categories: [ Work-Life Balance ]
-tags: [ main, books ]
+tags: [ main,atomowe-nawyki, books ]
 image: assets/images/atomowe-nawyki/cover.jpg
 comments: false
 toc: true
