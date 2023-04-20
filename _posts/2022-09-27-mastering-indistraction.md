@@ -157,7 +157,7 @@ Jeśli ciągle ulegamy rozpraszaczom, zaczniemy wierzyć, że tacy jesteśmy. Je
 *nierozpraszalni*, tacy się staniemy. Zamiast postawy cynicznej, wybierzmy postawę sceptyczną, żeby z technologi
 wyciągnąć to, co dobre, jednocześnie unikając tego, co niekorzystne — jak rozpraszacze.
 
-### Więcej można dowiedzieć się tutaj:
+#### Więcej można dowiedzieć się tutaj:
 
 - [The Knowledge Project Podcast: #104 Nir Eyal: Mastering Indistraction](https://open.spotify.com/episode/5ElUq2zOQQMrdNzfjMCwIe)
 - Świetny artykuł od **todoist** na temat [Time Blocking](https://todoist.com/productivity-methods/time-blocking)

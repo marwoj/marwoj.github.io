@@ -6,7 +6,6 @@ categories: [ Work-Life Balance ]
 tags: [ main ]
 image: assets/images/shorts/remember-what-you-read.jpg
 comments: false
-toc: true
 ---
 W tym artykule skupię się na czytaniu książek w celach rozwojowych. Czytanie w celach rozrywkowych rządzi się swoimi
 prawami i jest równie ważne i przyjemne, ale obowiązują tam inne zasady.
@@ -76,7 +75,7 @@ posiadamy. Można zastanowić się, jak zastosować nową wiedzę w praktyce, ki
 nie. Przygotowanie planu wdrożenia pozwala na wykorzystanie tego, czego się nauczyliśmy, co jeszcze spotęgujes proces
 uczenia.
 
-### Więcej można dowiedzieć się tutaj:
+#### Więcej można dowiedzieć się tutaj:
 
 - [How to Remember What You Read — Farnam Street](https://fs.blog/remember-books/)
 - Photo

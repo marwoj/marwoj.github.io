@@ -6,7 +6,6 @@ categories: [ Work-Life Balance ]
 tags: [ main,atomowe-nawyki, books ]
 image: assets/images/atomowe-nawyki/cover.jpg
 comments: false
-toc: true
 ---
 
 # Atomowe nawyki by James Clear

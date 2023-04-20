@@ -123,7 +123,7 @@ Dlatego tak ważne jest umacnianie więzi na spotkaniach integracyjnych — po t
 
 A jeśli zarówno firma, jak i pracownicy okażą sobie zaufanie, takie podejście może uwolnić wiele ukrytego potencjału.
 
-### Więcej można dowiedzieć się tutaj:
+#### Więcej można dowiedzieć się tutaj:
 
 - [Distributed Work’s Five Levels of Autonomy](https://ma.tt/2020/04/five-levels-of-autonomy/)
 - [The Knowledge Project Podcast: #100 Matt Mullenweg: Collaboration Is Key](https://open.spotify.com/episode/0qRrtuq9yVEZZDraEWORgm)
