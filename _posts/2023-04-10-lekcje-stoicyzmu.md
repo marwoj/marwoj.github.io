@@ -6,7 +6,6 @@ categories: [ Work-Life Balance ]
 tags: [ main, books ]
 image: assets/images/lekcje-stoicyzmu/cover.jpg
 comments: false
-toc: true
 ---
 
 # Lekcje stoicyzmu by John Sellars

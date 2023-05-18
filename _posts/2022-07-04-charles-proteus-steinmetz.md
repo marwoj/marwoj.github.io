@@ -59,7 +59,7 @@ O jego niezwykłych zdolnościach może świadczyć fakt, że General Electric C
 pracował Charles Proteus Steinmetz, ze względu na jego patenty, ale to sam Steinmetz był uważany za jeden z jej głównych
 aktywów.
 
-### Więcej można dowiedzieć się tutaj:
+#### Więcej można dowiedzieć się tutaj:
 
 - Niezwykłe perypetie odkryć i wynalazków, Juliusz Jerzy Herlinger
 - [Charles Proteus Steinmetz - Amerykański inżynier](https://delphipages.live/pl/rozne/charles-proteus-steinmetz)

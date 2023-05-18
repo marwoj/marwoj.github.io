@@ -6,7 +6,6 @@ categories: [ Work-Life Balance ]
 tags: [ main, books ]
 image: assets/images/wychowanie-bez-nagrod-i-kar/cover.jpg
 comments: false
-toc: true
 ---
 
 # Wychowanie bez nagród i kar by Alfie Kohn

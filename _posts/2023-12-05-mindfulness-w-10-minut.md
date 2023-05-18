@@ -6,7 +6,6 @@ categories: [ Work-Life Balance ]
 tags: [ main, mindfulness, books ]
 image: assets/images/mindfulness/cover.jpg
 comments: false
-toc: true
 ---
 
 # Mindfulness w 10 minut by S.J. Scott i Barrie Davenport
