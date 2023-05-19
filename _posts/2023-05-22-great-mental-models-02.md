@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "The Great Mental Models — Farnam Street."
+title: "The Great Mental Models — Farnam Street. Rozdział #02: Circle of Competence"
 author: wojciech
 categories: [ Work-Life Balance ]
-tags: [ great-mental-models, main, books ]
+tags: [ great-mental-models, books, chapter ]
 image: assets/images/great-mental-models/cover.jpg
 comments: false
 ---
@@ -11,5 +11,4 @@ comments: false
 # The Great Mental Models by Farnam Street
 
 {% include_relative great-mental-models/header.md %}
-{% include_relative great-mental-models/great-mental-models-01.md %}
 {% include_relative great-mental-models/great-mental-models-02.md %}

@@ -11,9 +11,21 @@ Mając w ręku mapę — nasze naturalne dążenie do prostoty każe nam polega�
 być jednak świadomi jej ograniczeń:
 
 - Mapa redukuje informacje — żeby mieć pełniejszy obraz, musimy obserwować otaczający
-nas świat i musimy być otwarci na feedback z niego płynący.
-- Rzeczywistość się zmienia, mapa niekoniecznie. Warto zadbać o jej aktualność. 
+  nas świat i musimy być otwarci na feedback z niego płynący.
+- Rzeczywistość się zmienia, mapa niekoniecznie. Warto zadbać o jej aktualność.
 - Patrząc na mapę, warto uwzględnić kartografa — kto i po co stworzył mapę.
 
 Na koniec, warto mieć świadomość, że mapy wpływają na otaczający nas świat, kreują jego postrzeganie. Należy zatem
 korzystać z dobrych map i należy być ostrożnym, kiedy dostajemy je do ręki.
+
+---
+### Tragedia wspólnego pastwiska — side note
+
+Pasterze wypasający owce, mają dy dyspozycji wspólne zasoby w postaci pastwiska. Kalkulacja czy powiększyć stado, z
+punktu widzenia pasterza przedstawia się następująco:
+
+- pasterz zyskuje jedną owcę: +1
+- owca obciąża pastwisko, dla każdego pasterza w tym samym stopniu: 1/n (gdzie n to liczba pasterzy)
+
+Kalkulacja jest prosta i każdy dochodzi do tego samego wniosku — opłaca się powiększyć stado. Doprowadza to do
+eksploatacji zasobów, rujnując pastwisko.
