@@ -1,13 +1,16 @@
-name: Build every hour
-
+name: Experiment
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
+
 jobs:
-  curl:
+  job1:
+    name: Debug
     runs-on: ubuntu-latest
+
     steps:
-      - name: curl
-        uses: wei/curl@master
-        with:
-          args: "-X POST -H 'Authorization: token ${{ secrets.PAGES_ACCESS_TOKEN }}' -H 'Accept: application/vnd.github.ant-man-preview+json' https://api.github.com/repos/marwoj/marwoj.github.io/pages/builds"
+      - name: Git checkout
+        uses: actions/checkout@v2
+        with: { ref: develop }
+      - name: List files
+        run: ls
