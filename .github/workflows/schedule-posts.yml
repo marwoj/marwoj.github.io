@@ -1,8 +1,8 @@
-name: Build every day at midnight
+name: Deploy page every day at midnight
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 * * * *'
 jobs:
   curl:
     runs-on: ubuntu-latest
