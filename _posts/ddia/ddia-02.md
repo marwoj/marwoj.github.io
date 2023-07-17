@@ -208,7 +208,7 @@ Triple-Store posiada też format _Turtle_, który jest czytelny dla człowieka. 
 przy pomocy _Turtle_ wygląda następująco:
 
 ```
-@prefix : &lt;urn:example:>.
+@prefix : <urn:example:>.
 _:lucy a :Person.
 _:lucy :name "Lucy".
 _:lucy :bornIn _:idaho.
@@ -228,7 +228,7 @@ _:namerica :type "continent".
 Co można zapisać w skróconej wersji, korzystając ze średników:
 
 ```
-@prefix : &lt;urn:example:>.
+@prefix : <urn:example:>.
 _:lucy a :Person; :name "Lucy"; :bornIn _:idaho.
 _:idaho a :Location; :name "Idaho"; :type "state"; :within _:usa.
 _:usa a :Location; :name "United States"; :type "country"; :within _:namerica.
