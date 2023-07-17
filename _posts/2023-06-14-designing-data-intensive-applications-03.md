@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Designing Data-Intensive Applications — Martin Kleppmann."
+title: "Designing Data-Intensive Applications — Martin Kleppmann.  Rozdział #3: Storage and Retrieval"
 author: wojciech
 categories: [ ddia ]
-tags: [ main, books ]
+tags: [ books, chapter ]
 image: assets/images/ddia/cover.jpg
 comments: false
 ---
 
 # Designing Data-Intensive Applications — Martin Kleppmann.
 
-{% include_relative ddia/ddia-01.md %}
-{% include_relative ddia/ddia-02.md %}
+{% include_relative ddia/ddia-03.md %}
