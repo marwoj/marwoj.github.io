@@ -20,3 +20,4 @@ comments: false
 {% include_relative great-mental-models/great-mental-models-07.md %}
 {% include_relative great-mental-models/great-mental-models-08.md %}
 {% include_relative great-mental-models/great-mental-models-09.md %}
+{% include_relative great-mental-models/great-mental-models-dictionary.md %}
