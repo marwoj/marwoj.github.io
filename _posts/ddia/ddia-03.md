@@ -1,5 +1,7 @@
 ## Rozdział #3: Storage and Retrieval
 
+>If you keep things tidily ordered, you’re just too lazy to go searching
+
 Upraszczając, baza danych powinna pozwolić na zapis danych i ich pobranie, kiedy to jest potrzebne. Dlaczego zatem
 oprócz języka dostępu do danych, powinniśmy być świadomi, jak baza działa pod spodem?
 Aby móc ją konfigurować i wybrać bazę odpowiednią dla naszych potrzeb.
