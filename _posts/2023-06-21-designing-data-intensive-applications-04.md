@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Designing Data-Intensive Applications — Martin Kleppmann.  Rozdział #3: Encoding and Evolution"
+title: "Designing Data-Intensive Applications — Martin Kleppmann.  Rozdział #4: Encoding and Evolution"
 author: wojciech
 categories: [ ddia ]
 tags: [ books, chapter ]
