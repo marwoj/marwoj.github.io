@@ -15,3 +15,4 @@ comments: false
 {% include_relative ddia/ddia-03.md %}
 {% include_relative ddia/ddia-04.md %}
 {% include_relative ddia/ddia-05.md %}
+{% include_relative ddia/ddia-06.md %}
